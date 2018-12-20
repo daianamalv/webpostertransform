@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "VentiCF-DemiBold";
+
+  src: url("../fonts/VentiCF-DemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "VentiCF-Medium";
+
+  src: url("../fonts/VentiCF-Medium.woff") format("woff");
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic');
