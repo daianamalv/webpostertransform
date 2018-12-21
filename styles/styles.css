@@ -7,9 +7,9 @@ body {
   font-family: "VentiCF-DemiBold", sans-serif;
 }
 
-* {
+/* * {
   box-sizing: border-box;
-}
+} */
 
 .main {
   display: flex;
@@ -281,8 +281,12 @@ a {
   margin-bottom: 0;
 }
 
-  .question_one, .question_two {
+  .question_one {
     margin-bottom: 70px;
+  }
+
+  .question_two {
+    margin-bottom: 40px;
   }
 
   .img {
@@ -293,6 +297,7 @@ a {
 
   ul li {
     font-size: 8px;
+
   }
 
 }
