@@ -76,18 +76,14 @@ p {
   flex-direction: row;
 
   width: 70vw;
-  margin-bottom: 20vw;
+  margin-bottom: 10vw;
 
   justify-content: center;
 }
 
 
 .box {
-  position: absolute;
-
   display: flex;
-
-  vertical-align: bottom;
 
   align-items: center;
   justify-content: space-between;
