@@ -10,5 +10,16 @@
   src: url("../fonts/VentiCF-Medium.woff") format("woff");
 }
 
+@font-face {
+  font-family: "VentiCF-Bold";
+
+  src: url("../fonts/VentiCF-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "VentiCF-ExtraBold";
+
+  src: url("../fonts/VentiCF-ExtraBold.woff") format("woff");
+}
 
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=cyrillic');
